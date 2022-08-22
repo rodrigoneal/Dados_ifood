@@ -1,0 +1,1 @@
+Preciso me controlar com os gastos, fiz esse bot pra saber o quanto estou gastando.
